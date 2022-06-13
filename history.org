@@ -1,4 +1,4 @@
-# a history
+* a history
 
 In the early days there was... stuff
 And then there was more...     stuff
