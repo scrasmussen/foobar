@@ -1,6 +1,6 @@
-# List 2
+# List 1
 
 - [-] code
   - [X] a
-  - [X] b
+ - [ ] b
   - [ ] c
